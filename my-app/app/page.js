@@ -1,9 +1,14 @@
-import Image from "next/image";
+import Profile from "..components/Profile";
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      Eu gostaria de dizer que, eu me caguei.
-        </div>
+    
+    <main>
+
+      <h1>Atividade Meu Perfil</h1>
+
+      <Profile/>
+    </main>
+
   );
 }
