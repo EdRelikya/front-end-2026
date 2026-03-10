@@ -8,8 +8,8 @@ export default function Profile(){
             />
 
             <h2>Edmundo Cariolano Da Silva</h2>
-            <p> Estudante de Sistemas para internet na Universidade Católica de Pernambuco.
-                Professor: Marcio Bueno.
+            <p> Estudante de Sistemas para internet na Universidade Católica de Pernambuco. <br />
+                Professor: Marcio Bueno.<br />
                 Estudando React, Next.js, JavaScript, HTML e CSS.
             </p>
 
