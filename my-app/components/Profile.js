@@ -1,6 +1,18 @@
 export default function Profile(){
     return (
-        <div>
+        <div
+            style={{
+                display: "flex",
+                flexDirection: "column",
+                justifyContent: "center",
+                alignItems: "center",
+                minHeight: "100vh",
+                textAlign: "center"
+                
+            }}
+            >
+
+                
             <img
             src="perfil.png"
             alt="Profile Picture"
