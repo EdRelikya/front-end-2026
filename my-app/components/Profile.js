@@ -15,9 +15,11 @@ export default function Profile(){
 
 
             <img
+
             src="perfil.png"
             alt="Profile Picture"
             width="200"
+            style={{ borderRadius: "20px" }}
             />
 
             <h2>Edmundo Cariolano Da Silva</h2>
