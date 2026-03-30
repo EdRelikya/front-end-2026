@@ -14,6 +14,7 @@ export default function Profile(){
             >
 
 
+            <h1>Atividade Meu Perfil</h1>
             <img
 
             src="perfil.png"
