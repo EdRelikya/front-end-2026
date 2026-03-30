@@ -2,7 +2,7 @@ export default function Profile(){
     return (
         <div>
             <img
-            src="monkey.jpg"
+            src="perfil.png"
             alt="Profile Picture"
             width="200"
             />
