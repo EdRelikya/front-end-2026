@@ -1,7 +1,8 @@
 export default function Profile(){
     return (
         <div
-            style={{
+        //centralizando componente na tela
+                style={{
                 display: "flex",
                 flexDirection: "column",
                 justifyContent: "center",
@@ -12,7 +13,7 @@ export default function Profile(){
             }}
             >
 
-                
+
             <img
             src="perfil.png"
             alt="Profile Picture"
